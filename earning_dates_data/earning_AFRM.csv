@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,AFRM,"Affirm Holdings, Inc.",2021-11-10T00:00:00.000Z,TNS,-0.3,-1.13,-281.76,EST,0,EQUITY,2021-11-10
+1,AFRM,Affirm Holdings Inc,2021-09-09T20:00:00.000Z,AMC,-0.29,-0.48,-65.52,EST,-18000000,EQUITY,2021-09-09
+3,AFRM,"Affirm Holdings, Inc.",2021-05-10T00:00:00.000Z,TNS,-0.29,-1.06,-259.32,EST,0,EQUITY,2021-05-10
+4,AFRM,"Affirm Holdings, Inc.",2021-02-11T00:00:00.000Z,TNS,-0.81,-0.45,44.17,EST,0,EQUITY,2021-02-11

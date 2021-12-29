@@ -1,0 +1,3 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,SOFI,SoFi Technologies Inc,2021-11-10T16:10:00.000Z,TAS,-0.14,-0.05,64.29,EST,-18000000,EQUITY,2021-11-10
+2,SOFI,"SoFi Technologies, Inc.",2021-08-12T00:00:00.000Z,TNS,-0.05,-0.48,-772.73,EST,0,EQUITY,2021-08-12
