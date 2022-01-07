@@ -1,0 +1,7 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+3,ACI,Albertsons Companies Inc,2021-10-18T07:30:00.000Z,TAS,0.45,0.64,42.22,EST,-18000000,EQUITY,2021-10-18
+5,ACI,"Albertsons Companies, Inc.",2021-07-29T00:00:00.000Z,TNS,0.68,0.89,30.12,EST,0,EQUITY,2021-07-29
+6,ACI,"Albertsons Companies, Inc.",2021-04-26T00:00:00.000Z,TNS,0.51,0.6,16.96,EST,0,EQUITY,2021-04-26
+7,ACI,"Albertsons Companies, Inc.",2021-01-12T00:00:00.000Z,TNS,0.42,0.66,57.14,EST,0,EQUITY,2021-01-12
+8,ACI,"Albertsons Companies, Inc.",2020-10-20T00:00:00.000Z,TNS,0.26,0.6,129.01,EST,0,EQUITY,2020-10-20
+9,ACI,"Albertsons Companies, Inc.",2020-07-27T00:00:00.000Z,TNS,1.3,1.35,3.69,EST,0,EQUITY,2020-07-27

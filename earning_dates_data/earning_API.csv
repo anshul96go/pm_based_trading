@@ -1,0 +1,7 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,API,"Agora, Inc.",2021-11-15T00:00:00.000Z,TNS,-0.14,-0.19,-38.69,EST,0,EQUITY,2021-11-15
+1,API,"Agora, Inc.",2021-08-09T00:00:00.000Z,TNS,-0.06,-0.14,-133.33,EST,0,EQUITY,2021-08-09
+2,API,"Agora, Inc.",2021-05-24T00:00:00.000Z,TNS,-0.01,-0.14,-976.92,EST,0,EQUITY,2021-05-24
+3,API,"Agora, Inc.",2021-02-22T00:00:00.000Z,TNS,-0.07,-0.01,85.71,EST,0,EQUITY,2021-02-22
+4,API,"Agora, Inc.",2020-11-16T00:00:00.000Z,TNS,-0.01,-0.01,0.0,EST,0,EQUITY,2020-11-16
+5,API,"Agora, Inc.",2020-08-17T00:00:00.000Z,TNS,-0.01,0.14,1500.0,EST,0,EQUITY,2020-08-17

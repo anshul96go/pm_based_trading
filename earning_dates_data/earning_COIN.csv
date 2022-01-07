@@ -1,0 +1,4 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,COIN,"Coinbase Global, Inc.",2021-11-09T00:00:00.000Z,TNS,1.57,1.62,3.51,EST,0,EQUITY,2021-11-09
+1,COIN,"Coinbase Global, Inc.",2021-08-10T00:00:00.000Z,TNS,2.33,6.42,175.77,EST,0,EQUITY,2021-08-10
+2,COIN,"Coinbase Global, Inc.",2021-05-13T00:00:00.000Z,TNS,3.09,3.05,-1.17,EST,0,EQUITY,2021-05-13

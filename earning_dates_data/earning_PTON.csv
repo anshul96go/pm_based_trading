@@ -1,0 +1,10 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,PTON,Peloton Interactive Inc,2021-11-04T16:05:06.000Z,TAS,-1.07,-1.25,-16.82,EST,-18000000,EQUITY,2021-11-04
+4,PTON,"Peloton Interactive, Inc.",2021-08-26T00:00:00.000Z,TNS,-0.45,-0.71,-57.43,EST,0,EQUITY,2021-08-26
+5,PTON,"Peloton Interactive, Inc.",2021-05-05T00:00:00.000Z,TNS,-0.12,-0.03,74.14,EST,0,EQUITY,2021-05-05
+6,PTON,"Peloton Interactive, Inc.",2021-02-04T00:00:00.000Z,TNS,0.09,0.18,109.3,EST,0,EQUITY,2021-02-04
+7,PTON,"Peloton Interactive, Inc.",2020-11-05T00:00:00.000Z,TNS,0.11,0.2,75.44,EST,0,EQUITY,2020-11-05
+8,PTON,"Peloton Interactive, Inc.",2020-09-10T00:00:00.000Z,TNS,0.1,0.27,175.51,EST,0,EQUITY,2020-09-10
+9,PTON,"Peloton Interactive, Inc.",2020-05-06T00:00:00.000Z,TNS,-0.18,-0.2,-11.11,EST,0,EQUITY,2020-05-06
+10,PTON,"Peloton Interactive, Inc.",2020-02-05T00:00:00.000Z,TNS,-0.35,-0.2,42.2,EST,0,EQUITY,2020-02-05
+11,PTON,"Peloton Interactive, Inc.",2019-11-05T00:00:00.000Z,TNS,-0.44,-1.29,-191.2,EST,0,EQUITY,2019-11-05

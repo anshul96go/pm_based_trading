@@ -48,9 +48,11 @@ stock_list_completed = list(set(list(completed_df['name'])))
 stock_list = list(set(stock_list_full) - set(stock_list_completed)) 
 
 
+
 for stk in stock_list:
+    print(stk)
     extract_earning_dates(stk)  
     tmp_df = pd.DataFrame([{'name':stk,'last_extract':datetime.datetime.today().strftime('%m-%d-%Y')}])
     completed_df = pd.concat([completed_df,tmp_df],ignore_index=True)
     completed_df.to_csv('../records/earning_date_status.csv')
-
+    time.sleep(1)

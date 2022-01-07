@@ -1,0 +1,3 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,PTRA,Proterra Inc.,2021-11-10T00:00:00.000Z,TNS,-0.16,-0.73,-362.03,EST,0,EQUITY,2021-11-10
+1,PTRA,Proterra Inc.,2021-08-11T00:00:00.000Z,TNS,-0.14,-1.33,-843.26,EST,0,EQUITY,2021-08-11

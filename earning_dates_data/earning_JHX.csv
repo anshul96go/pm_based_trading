@@ -1,0 +1,6 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+20,JHX,James Hardie Industries plc,2016-11-23T00:00:00.000Z,TNS,,0.17,,EST,0,EQUITY,2016-11-23
+30,JHX,James Hardie Industries plc,2013-08-11T00:00:00.000Z,TNS,0.11,0.02,-78.57,EST,0,EQUITY,2013-08-11
+31,JHX,James Hardie Industries plc,2013-05-22T00:00:00.000Z,TNS,0.1,0.01,-85.26,EST,0,EQUITY,2013-05-22
+32,JHX,James Hardie Industries plc,2013-02-26T00:00:00.000Z,TNS,0.02,0.01,-18.75,EST,0,EQUITY,2013-02-26
+33,JHX,James Hardie Industries plc,2012-11-14T00:00:00.000Z,TNS,0.02,0.02,-20.0,EST,0,EQUITY,2012-11-14

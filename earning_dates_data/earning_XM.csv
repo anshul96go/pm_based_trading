@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,XM,Qualtrics International Inc.,2021-10-20T00:00:00.000Z,TNS,-0.02,0.01,155.56,EST,0,EQUITY,2021-10-20
+1,XM,Qualtrics International Inc.,2021-07-20T00:00:00.000Z,TNS,-0.02,0.04,290.48,EST,0,EQUITY,2021-07-20
+2,XM,Qualtrics International Inc.,2021-04-21T00:00:00.000Z,TNS,-0.03,0.01,133.33,EST,0,EQUITY,2021-04-21
+3,XM,Qualtrics International Inc.,2021-03-09T00:00:00.000Z,TNS,-0.04,-0.02,48.72,EST,0,EQUITY,2021-03-09

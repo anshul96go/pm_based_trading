@@ -1,0 +1,9 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+4,SPT,"Sprout Social, Inc.",2021-11-02T00:00:00.000Z,TNS,-0.08,-0.03,61.54,EST,0,EQUITY,2021-11-02
+5,SPT,"Sprout Social, Inc.",2021-08-03T00:00:00.000Z,TNS,-0.1,0.0,100.0,EST,0,EQUITY,2021-08-03
+6,SPT,"Sprout Social, Inc.",2021-05-04T00:00:00.000Z,TNS,-0.1,-0.05,50.98,EST,0,EQUITY,2021-05-04
+7,SPT,"Sprout Social, Inc.",2021-02-23T00:00:00.000Z,TNS,-0.11,-0.06,43.93,EST,0,EQUITY,2021-02-23
+8,SPT,"Sprout Social, Inc.",2020-11-09T00:00:00.000Z,TNS,-0.12,-0.09,25.0,EST,0,EQUITY,2020-11-09
+9,SPT,"Sprout Social, Inc.",2020-08-05T00:00:00.000Z,TNS,-0.14,-0.11,24.14,EST,0,EQUITY,2020-08-05
+10,SPT,"Sprout Social, Inc.",2020-05-06T00:00:00.000Z,TNS,-0.21,-0.14,32.37,EST,0,EQUITY,2020-05-06
+11,SPT,"Sprout Social, Inc.",2020-02-26T00:00:00.000Z,TNS,-0.34,-0.25,26.47,EST,0,EQUITY,2020-02-26

@@ -1,0 +1,15 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,BJ,BJ's Wholesale Club Holdings Inc,2021-11-18T06:45:00.000Z,TAS,0.8,0.91,13.75,EST,-18000000,EQUITY,2021-11-18
+4,BJ,"BJ's Wholesale Club Holdings, Inc.",2021-08-19T00:00:00.000Z,TNS,0.65,0.82,27.13,EST,0,EQUITY,2021-08-19
+5,BJ,"BJ's Wholesale Club Holdings, Inc.",2021-05-20T00:00:00.000Z,TNS,0.57,0.72,26.98,EST,0,EQUITY,2021-05-20
+6,BJ,"BJ's Wholesale Club Holdings, Inc.",2021-03-04T00:00:00.000Z,TNS,0.67,0.7,4.17,EST,0,EQUITY,2021-03-04
+7,BJ,"BJ's Wholesale Club Holdings, Inc.",2020-11-19T00:00:00.000Z,TNS,0.65,0.92,42.64,EST,0,EQUITY,2020-11-19
+8,BJ,"BJ's Wholesale Club Holdings, Inc.",2020-08-20T00:00:00.000Z,TNS,0.6,0.77,27.91,EST,0,EQUITY,2020-08-20
+9,BJ,"BJ's Wholesale Club Holdings, Inc.",2020-05-21T00:00:00.000Z,TNS,0.37,0.69,86.99,EST,0,EQUITY,2020-05-21
+10,BJ,"BJ's Wholesale Club Holdings, Inc.",2020-03-05T00:00:00.000Z,TNS,0.4,0.4,-0.5,EST,0,EQUITY,2020-03-05
+11,BJ,"BJ's Wholesale Club Holdings, Inc.",2019-11-21T00:00:00.000Z,TNS,0.41,0.41,1.23,EST,0,EQUITY,2019-11-21
+12,BJ,"BJ's Wholesale Club Holdings, Inc.",2019-08-22T00:00:00.000Z,TNS,0.37,0.39,5.98,EST,0,EQUITY,2019-08-22
+13,BJ,"BJ's Wholesale Club Holdings, Inc.",2019-05-23T00:00:00.000Z,TNS,0.25,0.26,6.12,EST,0,EQUITY,2019-05-23
+14,BJ,"BJ's Wholesale Club Holdings, Inc.",2019-03-06T00:00:00.000Z,TNS,0.36,0.44,22.56,EST,0,EQUITY,2019-03-06
+15,BJ,"BJ's Wholesale Club Holdings, Inc.",2018-11-20T00:00:00.000Z,TNS,0.34,0.39,16.07,EST,0,EQUITY,2018-11-20
+16,BJ,"BJ's Wholesale Club Holdings, Inc.",2018-08-28T00:00:00.000Z,TNS,0.27,0.31,16.54,EST,0,EQUITY,2018-08-28

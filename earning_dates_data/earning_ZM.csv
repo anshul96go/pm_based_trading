@@ -1,0 +1,12 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,ZM,"Zoom Video Communications, Inc.",2021-11-22T00:00:00.000Z,TNS,1.09,1.11,1.56,EST,0,EQUITY,2021-11-22
+1,ZM,"Zoom Video Communications, Inc.",2021-08-30T00:00:00.000Z,TNS,1.16,1.36,17.24,EST,0,EQUITY,2021-08-30
+2,ZM,"Zoom Video Communications, Inc.",2021-06-01T00:00:00.000Z,TNS,0.99,1.32,33.6,EST,0,EQUITY,2021-06-01
+3,ZM,"Zoom Video Communications, Inc.",2021-03-01T00:00:00.000Z,TNS,0.79,1.22,54.43,EST,0,EQUITY,2021-03-01
+4,ZM,"Zoom Video Communications, Inc.",2020-11-30T00:00:00.000Z,TNS,0.76,0.99,29.75,EST,0,EQUITY,2020-11-30
+5,ZM,"Zoom Video Communications, Inc.",2020-08-31T00:00:00.000Z,TNS,0.45,0.92,103.09,EST,0,EQUITY,2020-08-31
+6,ZM,"Zoom Video Communications, Inc.",2020-06-02T00:00:00.000Z,TNS,0.09,0.2,117.39,EST,0,EQUITY,2020-06-02
+7,ZM,"Zoom Video Communications, Inc.",2020-03-04T00:00:00.000Z,TNS,0.07,0.15,111.27,EST,0,EQUITY,2020-03-04
+8,ZM,"Zoom Video Communications, Inc.",2019-12-05T00:00:00.000Z,TNS,0.03,0.09,221.43,EST,0,EQUITY,2019-12-05
+9,ZM,"Zoom Video Communications, Inc.",2019-09-05T00:00:00.000Z,TNS,0.01,0.08,515.38,EST,0,EQUITY,2019-09-05
+10,ZM,"Zoom Video Communications, Inc.",2019-06-06T00:00:00.000Z,TNS,0.01,0.03,500.0,EST,0,EQUITY,2019-06-06

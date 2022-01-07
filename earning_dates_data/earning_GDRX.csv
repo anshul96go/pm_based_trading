@@ -1,0 +1,6 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,GDRX,"GoodRx Holdings, Inc.",2021-11-10T00:00:00.000Z,TNS,0.09,0.09,3.45,EST,0,EQUITY,2021-11-10
+1,GDRX,"GoodRx Holdings, Inc.",2021-08-12T00:00:00.000Z,TNS,0.08,0.08,1.27,EST,0,EQUITY,2021-08-12
+2,GDRX,"GoodRx Holdings, Inc.",2021-05-13T00:00:00.000Z,TNS,0.07,0.07,-4.11,EST,0,EQUITY,2021-05-13
+3,GDRX,"GoodRx Holdings, Inc.",2021-03-11T00:00:00.000Z,TNS,0.07,0.08,21.21,EST,0,EQUITY,2021-03-11
+4,GDRX,"GoodRx Holdings, Inc.",2020-11-12T00:00:00.000Z,TNS,0.08,0.09,15.38,EST,0,EQUITY,2020-11-12

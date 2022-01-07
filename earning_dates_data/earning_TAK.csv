@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,TAK,Takeda Pharmaceutical Company Limited,2020-11-02T00:00:00.000Z,TNS,103.0,1.1,-98.93,EST,0,EQUITY,2020-11-02
+3,TAK,Takeda Pharmaceutical Company Limited,2020-07-31T00:00:00.000Z,TNS,104.0,26.47,-74.55,EST,0,EQUITY,2020-07-31
+4,TAK,Takeda Pharmaceutical Company Limited,2020-05-13T00:00:00.000Z,TNS,,0.55,,EST,0,EQUITY,2020-05-13
+5,TAK,Takeda Pharmaceutical Company Limited,2020-02-04T00:00:00.000Z,TNS,75.0,3.0,-96.01,EST,0,EQUITY,2020-02-04

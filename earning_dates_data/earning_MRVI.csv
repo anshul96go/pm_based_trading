@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+4,MRVI,Maravai LifeSciences Holdings Inc,2021-11-10T16:05:07.000Z,TAS,0.35,0.44,25.71,EST,-18000000,EQUITY,2021-11-10
+6,MRVI,"Maravai LifeSciences Holdings, Inc.",2021-08-10T00:00:00.000Z,TNS,0.32,0.44,38.8,EST,0,EQUITY,2021-08-10
+7,MRVI,"Maravai LifeSciences Holdings, Inc.",2021-05-10T00:00:00.000Z,TNS,0.21,0.26,26.83,EST,0,EQUITY,2021-05-10
+8,MRVI,"Maravai LifeSciences Holdings, Inc.",2021-03-02T00:00:00.000Z,TNS,0.11,0.13,20.37,EST,0,EQUITY,2021-03-02

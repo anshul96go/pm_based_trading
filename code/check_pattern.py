@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 
 # read stock list file
-stock_df = pd.read_csv('../output/stock_list.csv')
+stock_df = pd.read_csv('../output/stock_list_2.csv')
 res_list = []
 
 # get pattern data for the stocks
@@ -48,7 +48,7 @@ for itr in range(len(stock_df)):
         
         pct_diff = np.mean(pct_diff_list)
         
-        res_list.append({'name':stock,'link':stock_df.iloc[itr]['link'],'hit_rate':hit_pct,'valid_count':count_valid,'4_part_cnt':avg_usr_cnt,'pcct_diff':pct_diff})
+        res_list.append({'name':stock,'earn_date':stock_df.iloc[itr]['earn_date'],'earn_time':stock_df.iloc[itr]['earn_time'],'earn_day':stock_df.iloc[itr]['earn_day'],'link':stock_df.iloc[itr]['link'],'hit_rate':hit_pct,'valid_count':count_valid,'4_part_cnt':avg_usr_cnt,'pct_diff':pct_diff})
         
       
     except:
@@ -57,4 +57,4 @@ for itr in range(len(stock_df)):
 # save the file    
 res_df = pd.DataFrame(res_list)
 # print(res_df)
-res_df.to_csv('../output/stock_hit_rate.csv')
+res_df.to_csv('../output/stock_hit_rate_2.csv')

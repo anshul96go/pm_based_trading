@@ -1,0 +1,6 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,ASAN,"Asana, Inc.",2021-12-02T00:00:00.000Z,TNS,-0.26,-0.23,13.21,EST,0,EQUITY,2021-12-02
+1,ASAN,"Asana, Inc.",2021-09-01T00:00:00.000Z,TNS,-0.26,-0.23,12.21,EST,0,EQUITY,2021-09-01
+2,ASAN,"Asana, Inc.",2021-06-03T00:00:00.000Z,TNS,-0.27,-0.21,21.35,EST,0,EQUITY,2021-06-03
+3,ASAN,"Asana, Inc.",2021-03-10T00:00:00.000Z,TNS,-0.26,-0.22,14.4,EST,0,EQUITY,2021-03-10
+4,ASAN,"Asana, Inc.",2020-12-09T00:00:00.000Z,TNS,-0.37,-0.34,7.1,EST,0,EQUITY,2020-12-09

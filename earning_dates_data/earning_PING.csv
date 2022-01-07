@@ -1,0 +1,10 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,PING,Ping Identity Holding Corp,2021-11-03T16:15:00.000Z,TAS,0.03,0.07,133.33,EST,-18000000,EQUITY,2021-11-03
+4,PING,Ping Identity Holding Corp.,2021-08-04T00:00:00.000Z,TNS,0.04,0.11,150.0,EST,0,EQUITY,2021-08-04
+5,PING,Ping Identity Holding Corp.,2021-05-05T00:00:00.000Z,TNS,0.04,0.04,14.29,EST,0,EQUITY,2021-05-05
+6,PING,Ping Identity Holding Corp.,2021-02-24T00:00:00.000Z,TNS,0.09,0.09,5.88,EST,0,EQUITY,2021-02-24
+7,PING,Ping Identity Holding Corp.,2020-11-04T00:00:00.000Z,TNS,0.02,0.11,478.95,EST,0,EQUITY,2020-11-04
+8,PING,Ping Identity Holding Corp.,2020-08-12T00:00:00.000Z,TNS,0.01,0.08,515.38,EST,0,EQUITY,2020-08-12
+9,PING,Ping Identity Holding Corp.,2020-05-06T00:00:00.000Z,TNS,0.03,0.06,130.77,EST,0,EQUITY,2020-05-06
+10,PING,Ping Identity Holding Corp.,2020-03-04T00:00:00.000Z,TNS,0.11,0.14,33.33,EST,0,EQUITY,2020-03-04
+11,PING,Ping Identity Holding Corp.,2019-11-13T00:00:00.000Z,TNS,0.01,0.13,1200.0,EST,0,EQUITY,2019-11-13

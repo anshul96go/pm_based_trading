@@ -1,0 +1,6 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,PLTR,Palantir Technologies Inc.,2021-11-09T00:00:00.000Z,TNS,0.04,0.04,8.11,EST,0,EQUITY,2021-11-09
+1,PLTR,Palantir Technologies Inc.,2021-08-12T00:00:00.000Z,TNS,0.04,0.04,14.29,EST,0,EQUITY,2021-08-12
+2,PLTR,Palantir Technologies Inc.,2021-05-11T00:00:00.000Z,TNS,0.04,0.04,8.11,EST,0,EQUITY,2021-05-11
+3,PLTR,Palantir Technologies Inc.,2021-02-16T00:00:00.000Z,TNS,0.02,0.06,185.71,EST,0,EQUITY,2021-02-16
+4,PLTR,Palantir Technologies Inc.,2020-11-12T00:00:00.000Z,TNS,0.02,0.09,350.0,EST,0,EQUITY,2020-11-12

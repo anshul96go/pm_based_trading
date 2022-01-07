@@ -1,0 +1,11 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,FVRR,Fiverr International Ltd.,2021-11-10T00:00:00.000Z,TNS,-0.01,0.19,1827.27,EST,0,EQUITY,2021-11-10
+1,FVRR,Fiverr International Ltd.,2021-08-05T00:00:00.000Z,TNS,0.1,0.19,97.92,EST,0,EQUITY,2021-08-05
+2,FVRR,Fiverr International Ltd.,2021-05-06T00:00:00.000Z,TNS,-0.12,-0.01,91.45,EST,0,EQUITY,2021-05-06
+3,FVRR,Fiverr International Ltd.,2021-02-18T00:00:00.000Z,TNS,0.12,0.12,-2.44,EST,0,EQUITY,2021-02-18
+4,FVRR,Fiverr International Ltd.,2020-10-28T00:00:00.000Z,TNS,0.08,0.12,44.58,EST,0,EQUITY,2020-10-28
+5,FVRR,Fiverr International Ltd.,2020-08-05T00:00:00.000Z,TNS,-0.06,0.1,266.67,EST,0,EQUITY,2020-08-05
+6,FVRR,Fiverr International Ltd.,2020-05-07T00:00:00.000Z,TNS,-0.13,-0.08,39.85,EST,0,EQUITY,2020-05-07
+7,FVRR,Fiverr International Ltd.,2020-02-19T00:00:00.000Z,TNS,-0.14,-0.08,42.86,EST,0,EQUITY,2020-02-19
+8,FVRR,Fiverr International Ltd.,2019-11-13T00:00:00.000Z,TNS,-0.19,-0.12,36.84,EST,0,EQUITY,2019-11-13
+9,FVRR,Fiverr International Ltd.,2019-08-08T00:00:00.000Z,TNS,-0.4,-0.19,52.85,EST,0,EQUITY,2019-08-08

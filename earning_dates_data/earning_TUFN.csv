@@ -1,0 +1,12 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,TUFN,Tufin Software Technologies Ltd.,2021-11-09T00:00:00.000Z,TNS,-0.25,-0.17,31.45,EST,0,EQUITY,2021-11-09
+3,TUFN,Tufin Software Technologies Ltd.,2021-08-11T00:00:00.000Z,TNS,-0.31,-0.22,29.94,EST,0,EQUITY,2021-08-11
+4,TUFN,Tufin Software Technologies Ltd.,2021-05-13T00:00:00.000Z,TNS,-0.27,-0.27,-0.75,EST,0,EQUITY,2021-05-13
+5,TUFN,Tufin Software Technologies Ltd.,2021-02-12T00:00:00.000Z,TNS,-0.08,-0.03,64.29,EST,0,EQUITY,2021-02-12
+6,TUFN,Tufin Software Technologies Ltd.,2020-11-12T00:00:00.000Z,TNS,-0.16,-0.03,81.01,EST,0,EQUITY,2020-11-12
+7,TUFN,Tufin Software Technologies Ltd.,2020-08-12T00:00:00.000Z,TNS,-0.29,-0.15,48.63,EST,0,EQUITY,2020-08-12
+8,TUFN,Tufin Software Technologies Ltd.,2020-05-12T00:00:00.000Z,TNS,-0.4,-0.37,7.73,EST,0,EQUITY,2020-05-12
+9,TUFN,Tufin Software Technologies Ltd.,2020-02-13T00:00:00.000Z,TNS,-0.04,-0.07,-70.73,EST,0,EQUITY,2020-02-13
+10,TUFN,Tufin Software Technologies Ltd.,2019-11-14T00:00:00.000Z,TNS,-0.17,-0.17,1.73,EST,0,EQUITY,2019-11-14
+11,TUFN,Tufin Software Technologies Ltd.,2019-09-03T00:00:00.000Z,TNS,-0.2,-0.18,8.16,EST,0,EQUITY,2019-09-03
+12,TUFN,Tufin Software Technologies Ltd.,2019-06-13T00:00:00.000Z,TNS,-0.45,-0.41,8.89,EST,0,EQUITY,2019-06-13

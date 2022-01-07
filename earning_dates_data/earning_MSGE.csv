@@ -1,0 +1,8 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,MSGE,Madison Square Garden Entertainment Corp.,2021-11-09T00:00:00.000Z,TNS,-1.14,-2.55,-122.71,EST,0,EQUITY,2021-11-09
+1,MSGE,Madison Square Garden Entertainment Corp.,2021-08-23T00:00:00.000Z,TNS,-3.31,-5.05,-52.75,EST,0,EQUITY,2021-08-23
+2,MSGE,Madison Square Garden Entertainment Corp.,2021-05-07T00:00:00.000Z,TNS,-3.76,-2.98,20.77,EST,0,EQUITY,2021-05-07
+3,MSGE,Madison Square Garden Entertainment Corp.,2021-02-12T00:00:00.000Z,TNS,-3.97,-5.12,-28.93,EST,0,EQUITY,2021-02-12
+4,MSGE,Madison Square Garden Entertainment Corp.,2020-11-16T00:00:00.000Z,TNS,-4.43,-3.69,16.67,EST,0,EQUITY,2020-11-16
+5,MSGE,Madison Square Garden Entertainment Corp.,2020-08-14T00:00:00.000Z,TNS,-4.17,-4.74,-13.78,EST,0,EQUITY,2020-08-14
+6,MSGE,Madison Square Garden Entertainment Corp.,2020-05-18T00:00:00.000Z,TNS,-2.4,-5.36,-123.52,EST,0,EQUITY,2020-05-18

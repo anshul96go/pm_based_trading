@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,SKLZ,Skillz Inc.,2021-11-03T00:00:00.000Z,TNS,-0.14,-0.16,-11.11,EST,0,EQUITY,2021-11-03
+1,SKLZ,Skillz Inc.,2021-08-03T00:00:00.000Z,TNS,-0.09,-0.21,-125.81,EST,0,EQUITY,2021-08-03
+2,SKLZ,Skillz Inc.,2021-05-04T00:00:00.000Z,TNS,-0.1,-0.15,-42.86,EST,0,EQUITY,2021-05-04
+3,SKLZ,Skillz Inc.,2021-03-10T00:00:00.000Z,TNS,-0.1,-0.13,-26.21,EST,0,EQUITY,2021-03-10

@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,DASH,"DoorDash, Inc.",2021-11-09T00:00:00.000Z,TNS,-0.26,-0.3,-14.94,EST,0,EQUITY,2021-11-09
+1,DASH,"DoorDash, Inc.",2021-08-12T00:00:00.000Z,TNS,-0.2,-0.3,-50.75,EST,0,EQUITY,2021-08-12
+2,DASH,"DoorDash, Inc.",2021-05-13T00:00:00.000Z,TNS,-0.26,-0.34,-31.27,EST,0,EQUITY,2021-05-13
+3,DASH,"DoorDash, Inc.",2021-02-25T00:00:00.000Z,TNS,-0.14,-2.67,-1741.38,EST,0,EQUITY,2021-02-25

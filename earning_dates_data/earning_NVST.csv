@@ -1,0 +1,10 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,NVST,Envista Holdings Corp,2021-11-03T16:10:07.000Z,TAS,0.41,0.45,9.76,EST,-18000000,EQUITY,2021-11-03
+4,NVST,Envista Holdings Corporation,2021-08-03T00:00:00.000Z,TNS,0.46,0.53,16.48,EST,0,EQUITY,2021-08-03
+5,NVST,Envista Holdings Corporation,2021-05-05T00:00:00.000Z,TNS,0.31,0.54,71.97,EST,0,EQUITY,2021-05-05
+6,NVST,Envista Holdings Corporation,2021-02-10T00:00:00.000Z,TNS,0.42,0.56,34.29,EST,0,EQUITY,2021-02-10
+7,NVST,Envista Holdings Corporation,2020-10-29T00:00:00.000Z,TNS,0.09,0.48,410.64,EST,0,EQUITY,2020-10-29
+8,NVST,Envista Holdings Corporation,2020-07-30T00:00:00.000Z,TNS,-0.22,-0.1,55.56,EST,0,EQUITY,2020-07-30
+9,NVST,Envista Holdings Corporation,2020-05-12T00:00:00.000Z,TNS,0.1,0.03,-69.07,EST,0,EQUITY,2020-05-12
+10,NVST,Envista Holdings Corporation,2020-01-30T00:00:00.000Z,TNS,0.49,0.52,5.91,EST,0,EQUITY,2020-01-30
+11,NVST,Envista Holdings Corporation,2019-10-24T00:00:00.000Z,TNS,0.43,0.47,10.07,EST,0,EQUITY,2019-10-24

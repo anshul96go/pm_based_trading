@@ -1,0 +1,11 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,GO,Grocery Outlet Holding Corp.,2021-11-09T00:00:00.000Z,TNS,0.22,0.24,8.11,EST,0,EQUITY,2021-11-09
+1,GO,Grocery Outlet Holding Corp.,2021-08-10T00:00:00.000Z,TNS,0.24,0.23,-3.77,EST,0,EQUITY,2021-08-10
+2,GO,Grocery Outlet Holding Corp.,2021-05-11T00:00:00.000Z,TNS,0.22,0.23,2.68,EST,0,EQUITY,2021-05-11
+3,GO,Grocery Outlet Holding Corp.,2021-03-02T00:00:00.000Z,TNS,0.23,0.24,4.35,EST,0,EQUITY,2021-03-02
+4,GO,Grocery Outlet Holding Corp.,2020-11-10T00:00:00.000Z,TNS,0.23,0.5,113.68,EST,0,EQUITY,2020-11-10
+5,GO,Grocery Outlet Holding Corp.,2020-08-10T00:00:00.000Z,TNS,0.23,0.42,81.82,EST,0,EQUITY,2020-08-10
+6,GO,Grocery Outlet Holding Corp.,2020-05-11T00:00:00.000Z,TNS,0.29,0.36,25.44,EST,0,EQUITY,2020-05-11
+7,GO,Grocery Outlet Holding Corp.,2020-03-24T00:00:00.000Z,TNS,0.18,0.21,20.0,EST,0,EQUITY,2020-03-24
+8,GO,Grocery Outlet Holding Corp.,2019-11-11T00:00:00.000Z,TNS,0.19,0.22,18.92,EST,0,EQUITY,2019-11-11
+9,GO,Grocery Outlet Holding Corp.,2019-08-13T00:00:00.000Z,TNS,0.13,0.2,49.25,EST,0,EQUITY,2019-08-13

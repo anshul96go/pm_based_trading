@@ -1,0 +1,27 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,COLL,Collegium Pharmaceutical Inc,2021-11-04T16:01:10.000Z,TAS,0.95,0.22,-76.84,EST,-18000000,EQUITY,2021-11-04
+4,COLL,"Collegium Pharmaceutical, Inc.",2021-08-05T00:00:00.000Z,TNS,0.47,0.83,75.85,EST,0,EQUITY,2021-08-05
+5,COLL,"Collegium Pharmaceutical, Inc.",2021-05-06T00:00:00.000Z,TNS,0.42,0.96,127.49,EST,0,EQUITY,2021-05-06
+6,COLL,"Collegium Pharmaceutical, Inc.",2021-02-25T00:00:00.000Z,TNS,0.39,0.2,-48.45,EST,0,EQUITY,2021-02-25
+7,COLL,"Collegium Pharmaceutical, Inc.",2020-11-05T00:00:00.000Z,TNS,0.41,0.32,-21.76,EST,0,EQUITY,2020-11-05
+8,COLL,"Collegium Pharmaceutical, Inc.",2020-08-05T00:00:00.000Z,TNS,0.31,0.23,-24.59,EST,0,EQUITY,2020-08-05
+9,COLL,"Collegium Pharmaceutical, Inc.",2020-05-07T00:00:00.000Z,TNS,0.41,0.01,-97.57,EST,0,EQUITY,2020-05-07
+10,COLL,"Collegium Pharmaceutical, Inc.",2020-02-27T00:00:00.000Z,TNS,-0.09,-0.07,18.6,EST,0,EQUITY,2020-02-27
+11,COLL,"Collegium Pharmaceutical, Inc.",2019-11-06T00:00:00.000Z,TNS,-0.12,-0.18,-51.26,EST,0,EQUITY,2019-11-06
+12,COLL,"Collegium Pharmaceutical, Inc.",2019-08-07T00:00:00.000Z,TNS,-0.19,-0.14,26.32,EST,0,EQUITY,2019-08-07
+13,COLL,"Collegium Pharmaceutical, Inc.",2019-05-08T00:00:00.000Z,TNS,-0.24,-0.29,-21.85,EST,0,EQUITY,2019-05-08
+14,COLL,"Collegium Pharmaceutical, Inc.",2019-02-27T00:00:00.000Z,TNS,-0.35,0.27,176.27,EST,0,EQUITY,2019-02-27
+15,COLL,"Collegium Pharmaceutical, Inc.",2018-11-08T00:00:00.000Z,TNS,-0.34,-0.5,-45.35,EST,0,EQUITY,2018-11-08
+16,COLL,"Collegium Pharmaceutical, Inc.",2018-08-08T00:00:00.000Z,TNS,-0.42,-0.4,4.31,EST,0,EQUITY,2018-08-08
+17,COLL,"Collegium Pharmaceutical, Inc.",2018-05-09T00:00:00.000Z,TNS,-0.49,-0.57,-15.85,EST,0,EQUITY,2018-05-09
+18,COLL,"Collegium Pharmaceutical, Inc.",2018-03-07T00:00:00.000Z,TNS,-0.57,-0.54,4.93,EST,0,EQUITY,2018-03-07
+19,COLL,"Collegium Pharmaceutical, Inc.",2017-11-08T00:00:00.000Z,TNS,-0.74,-0.45,39.19,EST,0,EQUITY,2017-11-08
+20,COLL,"Collegium Pharmaceutical, Inc.",2017-08-09T00:00:00.000Z,TNS,-0.81,-0.72,10.67,EST,0,EQUITY,2017-08-09
+21,COLL,"Collegium Pharmaceutical, Inc.",2017-05-10T00:00:00.000Z,TNS,-0.98,-0.79,19.06,EST,0,EQUITY,2017-05-10
+22,COLL,"Collegium Pharmaceutical, Inc.",2017-03-09T00:00:00.000Z,TNS,-1.07,-1.02,5.03,EST,0,EQUITY,2017-03-09
+23,COLL,"Collegium Pharmaceutical, Inc.",2016-11-10T00:00:00.000Z,TNS,-1.1,-1.13,-2.73,EST,0,EQUITY,2016-11-10
+24,COLL,"Collegium Pharmaceutical, Inc.",2016-08-10T00:00:00.000Z,TNS,-0.81,-1.05,-30.27,EST,0,EQUITY,2016-08-10
+25,COLL,"Collegium Pharmaceutical, Inc.",2016-05-10T00:00:00.000Z,TNS,-0.51,-0.68,-32.3,EST,0,EQUITY,2016-05-10
+26,COLL,"Collegium Pharmaceutical, Inc.",2016-03-15T00:00:00.000Z,TNS,-0.45,-0.46,-3.14,EST,0,EQUITY,2016-03-15
+27,COLL,"Collegium Pharmaceutical, Inc.",2015-11-12T00:00:00.000Z,TNS,-0.3,-0.46,-54.88,EST,0,EQUITY,2015-11-12
+28,COLL,"Collegium Pharmaceutical, Inc.",2015-08-12T00:00:00.000Z,TNS,-0.29,-0.45,-55.17,EST,0,EQUITY,2015-08-12

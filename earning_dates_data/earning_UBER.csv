@@ -1,0 +1,12 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,UBER,Uber Technologies Inc,2021-11-04T16:05:01.000Z,TAS,-0.3,-1.28,-326.67,EST,-18000000,EQUITY,2021-11-04
+4,UBER,"Uber Technologies, Inc.",2021-08-04T00:00:00.000Z,TNS,-0.51,0.58,213.73,EST,0,EQUITY,2021-08-04
+5,UBER,"Uber Technologies, Inc.",2021-05-05T00:00:00.000Z,TNS,-0.54,-0.06,88.97,EST,0,EQUITY,2021-05-05
+6,UBER,"Uber Technologies, Inc.",2021-02-10T00:00:00.000Z,TNS,-0.56,-0.54,2.7,EST,0,EQUITY,2021-02-10
+7,UBER,"Uber Technologies, Inc.",2020-11-05T00:00:00.000Z,TNS,-0.65,-0.62,4.47,EST,0,EQUITY,2020-11-05
+8,UBER,"Uber Technologies, Inc.",2020-08-06T00:00:00.000Z,TNS,-0.86,-1.02,-18.06,EST,0,EQUITY,2020-08-06
+9,UBER,"Uber Technologies, Inc.",2020-05-07T00:00:00.000Z,TNS,-0.88,-1.7,-93.62,EST,0,EQUITY,2020-05-07
+10,UBER,"Uber Technologies, Inc.",2020-02-06T00:00:00.000Z,TNS,-0.67,-0.64,5.19,EST,0,EQUITY,2020-02-06
+11,UBER,"Uber Technologies, Inc.",2019-11-04T00:00:00.000Z,TNS,-0.81,-0.68,16.56,EST,0,EQUITY,2019-11-04
+12,UBER,"Uber Technologies, Inc.",2019-08-08T00:00:00.000Z,TNS,-3.19,-4.72,-47.82,EST,0,EQUITY,2019-08-08
+13,UBER,"Uber Technologies, Inc.",2019-05-30T00:00:00.000Z,TNS,-2.26,-2.23,1.33,EST,0,EQUITY,2019-05-30

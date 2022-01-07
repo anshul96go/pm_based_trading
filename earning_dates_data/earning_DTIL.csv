@@ -1,0 +1,12 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,DTIL,Precision BioSciences Inc,2021-11-10T07:00:00.000Z,TAS,-0.59,-0.19,67.8,EST,-18000000,EQUITY,2021-11-10
+4,DTIL,"Precision BioSciences, Inc.",2021-08-12T00:00:00.000Z,TNS,-0.44,0.36,181.08,EST,0,EQUITY,2021-08-12
+5,DTIL,"Precision BioSciences, Inc.",2021-05-13T00:00:00.000Z,TNS,-0.5,-0.33,33.6,EST,0,EQUITY,2021-05-13
+6,DTIL,"Precision BioSciences, Inc.",2021-03-18T00:00:00.000Z,TNS,-0.11,-0.44,-304.55,EST,0,EQUITY,2021-03-18
+7,DTIL,"Precision BioSciences, Inc.",2020-11-10T00:00:00.000Z,TNS,-0.66,-0.5,24.01,EST,0,EQUITY,2020-11-10
+8,DTIL,"Precision BioSciences, Inc.",2020-08-13T00:00:00.000Z,TNS,-0.59,-0.63,-6.6,EST,0,EQUITY,2020-08-13
+9,DTIL,"Precision BioSciences, Inc.",2020-05-15T00:00:00.000Z,TNS,-0.52,-0.52,-0.58,EST,0,EQUITY,2020-05-15
+10,DTIL,"Precision BioSciences, Inc.",2020-03-10T00:00:00.000Z,TNS,-0.48,-0.36,25.77,EST,0,EQUITY,2020-03-10
+11,DTIL,"Precision BioSciences, Inc.",2019-11-12T00:00:00.000Z,TNS,-0.5,-0.41,18.49,EST,0,EQUITY,2019-11-12
+12,DTIL,"Precision BioSciences, Inc.",2019-08-14T00:00:00.000Z,TNS,-0.47,-0.39,17.37,EST,0,EQUITY,2019-08-14
+13,DTIL,"Precision BioSciences, Inc.",2019-04-29T00:00:00.000Z,TNS,-0.39,-1.99,-410.26,EST,0,EQUITY,2019-04-29

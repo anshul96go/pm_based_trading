@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,MP,MP Materials Corp.,2021-11-04T00:00:00.000Z,TNS,0.17,0.27,63.64,EST,0,EQUITY,2021-11-04
+1,MP,MP Materials Corp.,2021-08-05T00:00:00.000Z,TNS,0.13,0.17,33.86,EST,0,EQUITY,2021-08-05
+2,MP,MP Materials Corp.,2021-05-06T00:00:00.000Z,TNS,0.08,0.13,62.5,EST,0,EQUITY,2021-05-06
+3,MP,MP Materials Corp.,2021-03-18T00:00:00.000Z,TNS,0.08,0.18,114.29,EST,0,EQUITY,2021-03-18

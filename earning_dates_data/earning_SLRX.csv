@@ -1,0 +1,24 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+4,SLRX,"Salarius Pharmaceuticals, Inc.",2021-11-04T00:00:00.000Z,TNS,-0.06,-0.08,-23.08,EST,0,EQUITY,2021-11-04
+5,SLRX,"Salarius Pharmaceuticals, Inc.",2021-08-05T00:00:00.000Z,TNS,-0.06,-0.07,-22.81,EST,0,EQUITY,2021-08-05
+6,SLRX,"Salarius Pharmaceuticals, Inc.",2021-05-12T00:00:00.000Z,TNS,-0.05,-0.06,-9.09,EST,0,EQUITY,2021-05-12
+7,SLRX,"Salarius Pharmaceuticals, Inc.",2021-03-18T00:00:00.000Z,TNS,-0.11,-0.1,9.09,EST,0,EQUITY,2021-03-18
+8,SLRX,"Salarius Pharmaceuticals, Inc.",2020-11-11T00:00:00.000Z,TNS,-0.1,-0.1,4.76,EST,0,EQUITY,2020-11-11
+9,SLRX,"Salarius Pharmaceuticals, Inc.",2020-08-12T00:00:00.000Z,TNS,-0.16,-0.13,21.21,EST,0,EQUITY,2020-08-12
+10,SLRX,"Salarius Pharmaceuticals, Inc.",2020-05-14T00:00:00.000Z,TNS,-0.44,-0.22,50.0,EST,0,EQUITY,2020-05-14
+11,SLRX,"Salarius Pharmaceuticals, Inc.",2020-03-23T00:00:00.000Z,TNS,,-0.44,,EST,0,EQUITY,2020-03-23
+14,SLRX,"Salarius Pharmaceuticals, Inc.",2018-08-01T00:00:00.000Z,TNS,-11.25,-12.5,-11.11,EST,0,EQUITY,2018-08-01
+15,SLRX,"Salarius Pharmaceuticals, Inc.",2018-05-02T00:00:00.000Z,TNS,-12.12,-11.5,5.15,EST,0,EQUITY,2018-05-02
+16,SLRX,"Salarius Pharmaceuticals, Inc.",2018-03-07T00:00:00.000Z,TNS,-14.25,-11.5,19.3,EST,0,EQUITY,2018-03-07
+17,SLRX,"Salarius Pharmaceuticals, Inc.",2017-11-06T00:00:00.000Z,TNS,-15.12,-13.5,10.74,EST,0,EQUITY,2017-11-06
+18,SLRX,"Salarius Pharmaceuticals, Inc.",2017-08-02T00:00:00.000Z,TNS,-14.37,-12.75,11.3,EST,0,EQUITY,2017-08-02
+19,SLRX,"Salarius Pharmaceuticals, Inc.",2017-05-03T00:00:00.000Z,TNS,-15.5,-12.25,20.97,EST,0,EQUITY,2017-05-03
+20,SLRX,"Salarius Pharmaceuticals, Inc.",2017-03-08T00:00:00.000Z,TNS,-0.74,-0.48,35.14,EST,0,EQUITY,2017-03-08
+21,SLRX,"Salarius Pharmaceuticals, Inc.",2016-11-02T00:00:00.000Z,TNS,-0.72,-0.65,10.1,EST,0,EQUITY,2016-11-02
+22,SLRX,"Salarius Pharmaceuticals, Inc.",2016-08-03T00:00:00.000Z,TNS,-0.67,-0.71,-5.65,EST,0,EQUITY,2016-08-03
+23,SLRX,"Salarius Pharmaceuticals, Inc.",2016-05-04T00:00:00.000Z,TNS,-0.56,-0.61,-8.16,EST,0,EQUITY,2016-05-04
+24,SLRX,"Salarius Pharmaceuticals, Inc.",2016-03-08T00:00:00.000Z,TNS,-0.56,-0.51,9.57,EST,0,EQUITY,2016-03-08
+25,SLRX,"Salarius Pharmaceuticals, Inc.",2015-11-04T00:00:00.000Z,TNS,-0.44,-0.53,-19.91,EST,0,EQUITY,2015-11-04
+26,SLRX,"Salarius Pharmaceuticals, Inc.",2015-08-05T00:00:00.000Z,TNS,-0.36,-0.47,-28.77,EST,0,EQUITY,2015-08-05
+27,SLRX,"Salarius Pharmaceuticals, Inc.",2015-05-06T00:00:00.000Z,TNS,-0.29,-0.59,-103.45,EST,0,EQUITY,2015-05-06
+28,SLRX,"Salarius Pharmaceuticals, Inc.",2015-03-17T00:00:00.000Z,TNS,-0.14,-1.82,-1238.24,EST,0,EQUITY,2015-03-17

@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,RBLX,Roblox Corp,2021-11-08T16:06:00.000Z,TAS,-0.14,-0.13,7.14,EST,-18000000,EQUITY,2021-11-08
+2,RBLX,Roblox Corporation,2021-08-16T00:00:00.000Z,TNS,0.24,-0.25,-206.38,EST,0,EQUITY,2021-08-16
+3,RBLX,Roblox Corporation,2021-05-10T00:00:00.000Z,TNS,0.13,-0.46,-448.48,EST,0,EQUITY,2021-05-10
+4,RBLX,Roblox Corporation,2021-02-22T00:00:00.000Z,TNS,0.23,-0.11,-147.83,EST,0,EQUITY,2021-02-22

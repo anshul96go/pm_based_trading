@@ -1,0 +1,27 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2021-12-02T00:00:00.000Z,TNS,0.47,0.34,-27.66,EST,0,EQUITY,2021-12-02
+1,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2021-08-26T00:00:00.000Z,TNS,0.55,0.52,-5.97,EST,0,EQUITY,2021-08-26
+2,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2021-05-27T00:00:00.000Z,TNS,0.63,0.8,27.59,EST,0,EQUITY,2021-05-27
+3,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2021-03-18T00:00:00.000Z,TNS,0.85,0.97,13.58,EST,0,EQUITY,2021-03-18
+4,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2020-12-03T00:00:00.000Z,TNS,0.58,0.65,12.46,EST,0,EQUITY,2020-12-03
+5,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2020-08-27T00:00:00.000Z,TNS,0.9,1.04,15.04,EST,0,EQUITY,2020-08-27
+6,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2020-05-28T00:00:00.000Z,TNS,0.33,0.49,50.31,EST,0,EQUITY,2020-05-28
+7,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2020-03-19T00:00:00.000Z,TNS,0.75,0.74,-1.6,EST,0,EQUITY,2020-03-19
+8,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2019-12-10T00:00:00.000Z,TNS,0.38,0.41,9.04,EST,0,EQUITY,2019-12-10
+9,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2019-08-28T00:00:00.000Z,TNS,0.46,0.35,-24.08,EST,0,EQUITY,2019-08-28
+10,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2019-06-06T00:00:00.000Z,TNS,0.44,0.46,5.26,EST,0,EQUITY,2019-06-06
+11,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2019-03-26T00:00:00.000Z,TNS,0.7,0.71,2.16,EST,0,EQUITY,2019-03-26
+12,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2018-12-04T00:00:00.000Z,TNS,0.31,0.32,3.23,EST,0,EQUITY,2018-12-04
+13,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2018-09-05T00:00:00.000Z,TNS,0.36,0.4,9.89,EST,0,EQUITY,2018-09-05
+14,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2018-06-05T00:00:00.000Z,TNS,0.37,0.41,12.33,EST,0,EQUITY,2018-06-05
+15,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2018-04-04T00:00:00.000Z,TNS,0.49,0.51,3.24,EST,0,EQUITY,2018-04-04
+16,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2017-12-06T00:00:00.000Z,TNS,0.21,0.22,3.77,EST,0,EQUITY,2017-12-06
+17,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2017-08-29T00:00:00.000Z,TNS,0.25,0.27,9.76,EST,0,EQUITY,2017-08-29
+18,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2017-05-31T00:00:00.000Z,TNS,0.23,0.25,9.65,EST,0,EQUITY,2017-05-31
+19,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2017-03-28T00:00:00.000Z,TNS,0.35,0.39,10.17,EST,0,EQUITY,2017-03-28
+20,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2016-12-07T00:00:00.000Z,TNS,0.14,0.17,23.19,EST,0,EQUITY,2016-12-07
+21,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2016-08-31T00:00:00.000Z,TNS,0.18,0.21,17.98,EST,0,EQUITY,2016-08-31
+22,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2016-06-01T00:00:00.000Z,TNS,0.17,0.2,20.48,EST,0,EQUITY,2016-06-01
+23,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2016-04-06T00:00:00.000Z,TNS,0.28,0.31,11.11,EST,0,EQUITY,2016-04-06
+24,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2015-12-09T00:00:00.000Z,TNS,0.08,0.11,30.95,EST,0,EQUITY,2015-12-09
+25,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2015-09-09T00:00:00.000Z,TNS,0.11,0.15,35.14,EST,0,EQUITY,2015-09-09

@@ -1,0 +1,8 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,OTIS,Otis Worldwide Corp,2021-10-25T06:13:45.000Z,TAS,0.73,0.77,5.48,EST,-18000000,EQUITY,2021-10-25
+4,OTIS,Otis Worldwide Corporation,2021-07-26T00:00:00.000Z,TNS,0.72,0.79,10.34,EST,0,EQUITY,2021-07-26
+5,OTIS,Otis Worldwide Corporation,2021-04-26T00:00:00.000Z,TNS,0.63,0.72,14.83,EST,0,EQUITY,2021-04-26
+6,OTIS,Otis Worldwide Corporation,2021-02-01T00:00:00.000Z,TNS,0.59,0.66,11.86,EST,0,EQUITY,2021-02-01
+7,OTIS,Otis Worldwide Corporation,2020-10-26T00:00:00.000Z,TNS,0.56,0.69,23.43,EST,0,EQUITY,2020-10-26
+8,OTIS,Otis Worldwide Corporation,2020-07-28T00:00:00.000Z,TNS,0.44,0.56,27.85,EST,0,EQUITY,2020-07-28
+9,OTIS,Otis Worldwide Corporation,2020-05-06T00:00:00.000Z,TNS,0.46,0.6,30.43,EST,0,EQUITY,2020-05-06

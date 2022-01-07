@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,QS,QuantumScape Corporation,2021-10-26T00:00:00.000Z,TNS,-0.1,-0.13,-34.02,EST,0,EQUITY,2021-10-26
+1,QS,QuantumScape Corporation,2021-07-27T00:00:00.000Z,TNS,-0.07,-0.12,-79.1,EST,0,EQUITY,2021-07-27
+2,QS,QuantumScape Corporation,2021-05-11T00:00:00.000Z,TNS,-0.07,-0.2,-198.51,EST,0,EQUITY,2021-05-11
+3,QS,QuantumScape Corporation,2021-02-16T00:00:00.000Z,TNS,-0.03,-2.41,-7933.33,EST,0,EQUITY,2021-02-16

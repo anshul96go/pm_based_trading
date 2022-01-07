@@ -1,0 +1,9 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,BILL,"Bill.com Holdings, Inc.",2021-11-04T00:00:00.000Z,TNS,-0.2,-0.15,26.83,EST,0,EQUITY,2021-11-04
+1,BILL,"Bill.com Holdings, Inc.",2021-08-26T00:00:00.000Z,TNS,-0.04,-0.07,-70.73,EST,0,EQUITY,2021-08-26
+2,BILL,"Bill.com Holdings, Inc.",2021-05-06T00:00:00.000Z,TNS,-0.07,-0.02,73.33,EST,0,EQUITY,2021-05-06
+3,BILL,"Bill.com Holdings, Inc.",2021-02-04T00:00:00.000Z,TNS,-0.08,-0.03,60.53,EST,0,EQUITY,2021-02-04
+4,BILL,"Bill.com Holdings, Inc.",2020-11-05T00:00:00.000Z,TNS,-0.08,-0.04,47.37,EST,0,EQUITY,2020-11-05
+5,BILL,"Bill.com Holdings, Inc.",2020-08-27T00:00:00.000Z,TNS,-0.11,-0.02,81.48,EST,0,EQUITY,2020-08-27
+6,BILL,"Bill.com Holdings, Inc.",2020-05-07T00:00:00.000Z,TNS,-0.1,-0.04,60.4,EST,0,EQUITY,2020-05-07
+7,BILL,"Bill.com Holdings, Inc.",2020-02-06T00:00:00.000Z,TNS,-0.08,-0.06,29.41,EST,0,EQUITY,2020-02-06

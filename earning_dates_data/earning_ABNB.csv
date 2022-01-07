@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,ABNB,"Airbnb, Inc.",2021-11-04T00:00:00.000Z,TNS,0.75,1.22,62.02,EST,0,EQUITY,2021-11-04
+1,ABNB,"Airbnb, Inc.",2021-08-12T00:00:00.000Z,TNS,-0.47,-0.11,76.84,EST,0,EQUITY,2021-08-12
+2,ABNB,"Airbnb, Inc.",2021-05-13T00:00:00.000Z,TNS,-1.17,-1.95,-66.1,EST,0,EQUITY,2021-05-13
+3,ABNB,"Airbnb, Inc.",2021-02-25T00:00:00.000Z,TNS,-9.16,-10.84,-18.37,EST,0,EQUITY,2021-02-25

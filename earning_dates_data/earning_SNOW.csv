@@ -1,0 +1,6 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,SNOW,Snowflake Inc.,2021-12-01T00:00:00.000Z,TNS,-0.06,0.04,170.18,EST,0,EQUITY,2021-12-01
+1,SNOW,Snowflake Inc.,2021-08-25T00:00:00.000Z,TNS,-0.15,-0.04,72.97,EST,0,EQUITY,2021-08-25
+2,SNOW,Snowflake Inc.,2021-05-26T00:00:00.000Z,TNS,-0.16,-0.11,29.94,EST,0,EQUITY,2021-05-26
+3,SNOW,Snowflake Inc.,2021-03-03T00:00:00.000Z,TNS,-0.17,-0.16,5.33,EST,0,EQUITY,2021-03-03
+4,SNOW,Snowflake Inc.,2020-12-02T00:00:00.000Z,TNS,-0.26,-0.28,-7.28,EST,0,EQUITY,2020-12-02

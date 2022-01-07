@@ -1,0 +1,8 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,ACEL,"Accel Entertainment, Inc.",2021-11-03T00:00:00.000Z,TNS,0.19,0.18,-3.23,EST,0,EQUITY,2021-11-03
+1,ACEL,"Accel Entertainment, Inc.",2021-08-04T00:00:00.000Z,TNS,0.21,0.27,26.17,EST,0,EQUITY,2021-08-04
+2,ACEL,"Accel Entertainment, Inc.",2021-05-10T00:00:00.000Z,TNS,0.09,0.12,27.66,EST,0,EQUITY,2021-05-10
+3,ACEL,"Accel Entertainment, Inc.",2021-03-15T00:00:00.000Z,TNS,0.02,-0.05,-338.1,EST,0,EQUITY,2021-03-15
+4,ACEL,"Accel Entertainment, Inc.",2020-11-05T00:00:00.000Z,TNS,0.1,0.18,74.76,EST,0,EQUITY,2020-11-05
+5,ACEL,"Accel Entertainment, Inc.",2020-08-06T00:00:00.000Z,TNS,-0.17,-0.17,0.0,EST,0,EQUITY,2020-08-06
+6,ACEL,"Accel Entertainment, Inc.",2020-05-18T00:00:00.000Z,TNS,0.03,0.07,112.12,EST,0,EQUITY,2020-05-18

@@ -1,0 +1,7 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+4,BLI,Berkeley Lights Inc,2021-11-04T06:01:00.000Z,TAS,-0.24,-0.3,-25.0,EST,-18000000,EQUITY,2021-11-04
+6,BLI,"Berkeley Lights, Inc.",2021-08-11T00:00:00.000Z,TNS,-0.24,-0.27,-12.5,EST,0,EQUITY,2021-08-11
+7,BLI,"Berkeley Lights, Inc.",2021-05-11T00:00:00.000Z,TNS,-0.24,-0.24,0.0,EST,0,EQUITY,2021-05-11
+8,BLI,"Berkeley Lights, Inc.",2021-02-25T00:00:00.000Z,TNS,-0.2,-0.19,4.04,EST,0,EQUITY,2021-02-25
+9,BLI,"Berkeley Lights, Inc.",2020-11-12T00:00:00.000Z,TNS,-0.2,-0.16,19.19,EST,0,EQUITY,2020-11-12
+10,BLI,"Berkeley Lights, Inc.",2020-08-25T00:00:00.000Z,TNS,-0.19,-4.25,-2136.84,EST,0,EQUITY,2020-08-25

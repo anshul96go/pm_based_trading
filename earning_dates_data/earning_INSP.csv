@@ -1,0 +1,16 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,INSP,"Inspire Medical Systems, Inc.",2021-11-02T00:00:00.000Z,TNS,-0.61,-0.38,38.21,EST,0,EQUITY,2021-11-02
+1,INSP,"Inspire Medical Systems, Inc.",2021-08-03T00:00:00.000Z,TNS,-0.64,-0.48,25.12,EST,0,EQUITY,2021-08-03
+2,INSP,"Inspire Medical Systems, Inc.",2021-05-04T00:00:00.000Z,TNS,-0.66,-0.6,9.09,EST,0,EQUITY,2021-05-04
+3,INSP,"Inspire Medical Systems, Inc.",2021-02-23T00:00:00.000Z,TNS,-0.48,-0.28,41.91,EST,0,EQUITY,2021-02-23
+4,INSP,"Inspire Medical Systems, Inc.",2020-11-02T00:00:00.000Z,TNS,-0.72,-0.39,45.98,EST,0,EQUITY,2020-11-02
+5,INSP,"Inspire Medical Systems, Inc.",2020-08-04T00:00:00.000Z,TNS,-1.1,-0.88,20.0,EST,0,EQUITY,2020-08-04
+6,INSP,"Inspire Medical Systems, Inc.",2020-05-05T00:00:00.000Z,TNS,-0.57,-0.67,-18.17,EST,0,EQUITY,2020-05-05
+7,INSP,"Inspire Medical Systems, Inc.",2020-02-25T00:00:00.000Z,TNS,-0.4,-0.38,5.47,EST,0,EQUITY,2020-02-25
+8,INSP,"Inspire Medical Systems, Inc.",2019-11-05T00:00:00.000Z,TNS,-0.41,-0.34,17.68,EST,0,EQUITY,2019-11-05
+9,INSP,"Inspire Medical Systems, Inc.",2019-08-06T00:00:00.000Z,TNS,-0.43,-0.32,26.1,EST,0,EQUITY,2019-08-06
+10,INSP,"Inspire Medical Systems, Inc.",2019-05-07T00:00:00.000Z,TNS,-0.38,-0.35,8.14,EST,0,EQUITY,2019-05-07
+11,INSP,"Inspire Medical Systems, Inc.",2019-02-26T00:00:00.000Z,TNS,-0.31,-0.22,29.71,EST,0,EQUITY,2019-02-26
+12,INSP,"Inspire Medical Systems, Inc.",2018-11-06T00:00:00.000Z,TNS,-0.35,-0.22,36.78,EST,0,EQUITY,2018-11-06
+13,INSP,"Inspire Medical Systems, Inc.",2018-08-07T00:00:00.000Z,TNS,-0.51,-0.43,16.18,EST,0,EQUITY,2018-08-07
+14,INSP,"Inspire Medical Systems, Inc.",2018-06-07T00:00:00.000Z,TNS,-3.64,-5.05,-38.74,EST,0,EQUITY,2018-06-07

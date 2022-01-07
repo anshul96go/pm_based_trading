@@ -1,0 +1,10 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+4,SDC,"SmileDirectClub, Inc.",2021-11-08T00:00:00.000Z,TNS,-0.13,-0.23,-76.92,EST,0,EQUITY,2021-11-08
+5,SDC,"SmileDirectClub, Inc.",2021-08-09T00:00:00.000Z,TNS,-0.09,-0.14,-48.94,EST,0,EQUITY,2021-08-09
+6,SDC,"SmileDirectClub, Inc.",2021-05-10T00:00:00.000Z,TNS,-0.13,-0.25,-92.31,EST,0,EQUITY,2021-05-10
+7,SDC,"SmileDirectClub, Inc.",2021-03-04T00:00:00.000Z,TNS,-0.1,-0.09,7.22,EST,0,EQUITY,2021-03-04
+8,SDC,"SmileDirectClub, Inc.",2020-11-16T00:00:00.000Z,TNS,-0.14,-0.11,20.29,EST,0,EQUITY,2020-11-16
+9,SDC,"SmileDirectClub, Inc.",2020-08-12T00:00:00.000Z,TNS,-0.14,-0.25,-77.3,EST,0,EQUITY,2020-08-12
+10,SDC,"SmileDirectClub, Inc.",2020-05-13T00:00:00.000Z,TNS,-0.19,-0.28,-46.6,EST,0,EQUITY,2020-05-13
+11,SDC,"SmileDirectClub, Inc.",2020-02-25T00:00:00.000Z,TNS,-0.09,-0.25,-174.73,EST,0,EQUITY,2020-02-25
+12,SDC,"SmileDirectClub, Inc.",2019-11-12T00:00:00.000Z,TNS,-0.98,-0.89,9.18,EST,0,EQUITY,2019-11-12

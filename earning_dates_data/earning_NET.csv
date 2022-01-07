@@ -1,0 +1,10 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,NET,"Cloudflare, Inc.",2021-11-04T00:00:00.000Z,TNS,-0.04,0.0,100.0,EST,0,EQUITY,2021-11-04
+1,NET,"Cloudflare, Inc.",2021-08-05T00:00:00.000Z,TNS,-0.04,-0.02,42.86,EST,0,EQUITY,2021-08-05
+2,NET,"Cloudflare, Inc.",2021-05-06T00:00:00.000Z,TNS,-0.03,-0.03,-3.45,EST,0,EQUITY,2021-05-06
+3,NET,"Cloudflare, Inc.",2021-02-11T00:00:00.000Z,TNS,-0.03,-0.02,41.18,EST,0,EQUITY,2021-02-11
+4,NET,"Cloudflare, Inc.",2020-11-05T00:00:00.000Z,TNS,-0.05,-0.02,61.54,EST,0,EQUITY,2020-11-05
+5,NET,"Cloudflare, Inc.",2020-08-06T00:00:00.000Z,TNS,-0.06,-0.03,49.15,EST,0,EQUITY,2020-08-06
+6,NET,"Cloudflare, Inc.",2020-05-07T00:00:00.000Z,TNS,-0.06,-0.04,33.33,EST,0,EQUITY,2020-05-07
+7,NET,"Cloudflare, Inc.",2020-02-13T00:00:00.000Z,TNS,-0.07,-0.06,11.76,EST,0,EQUITY,2020-02-13
+8,NET,"Cloudflare, Inc.",2019-11-07T00:00:00.000Z,TNS,-0.15,-0.15,-2.04,EST,0,EQUITY,2019-11-07

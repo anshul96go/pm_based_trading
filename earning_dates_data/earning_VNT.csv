@@ -1,0 +1,6 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,VNT,Vontier Corporation,2021-11-04T00:00:00.000Z,TNS,0.73,0.8,10.04,EST,0,EQUITY,2021-11-04
+1,VNT,Vontier Corporation,2021-08-06T00:00:00.000Z,TNS,0.55,0.61,10.51,EST,0,EQUITY,2021-08-06
+2,VNT,Vontier Corporation,2021-05-06T00:00:00.000Z,TNS,0.55,0.63,15.38,EST,0,EQUITY,2021-05-06
+3,VNT,Vontier Corporation,2021-02-11T00:00:00.000Z,TNS,0.85,0.87,1.87,EST,0,EQUITY,2021-02-11
+4,VNT,Vontier Corporation,2020-10-29T00:00:00.000Z,TNS,0.71,0.8,13.48,EST,0,EQUITY,2020-10-29

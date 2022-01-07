@@ -1,0 +1,3 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,GLBE,Global-e Online Ltd.,2021-11-09T00:00:00.000Z,TNS,0.01,0.01,11.11,EST,0,EQUITY,2021-11-09
+1,GLBE,Global-e Online Ltd.,2021-08-16T00:00:00.000Z,TNS,0.0,0.06,1300.0,EST,0,EQUITY,2021-08-16

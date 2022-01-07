@@ -1,0 +1,10 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,RPAY,Repay Holdings Corp,2021-11-09T16:05:00.000Z,TAS,0.18,0.21,16.67,EST,-18000000,EQUITY,2021-11-09
+4,RPAY,Repay Holdings Corporation,2021-08-09T00:00:00.000Z,TNS,0.14,0.16,13.48,EST,0,EQUITY,2021-08-09
+5,RPAY,Repay Holdings Corporation,2021-05-10T00:00:00.000Z,TNS,0.16,0.18,12.5,EST,0,EQUITY,2021-05-10
+6,RPAY,Repay Holdings Corporation,2021-03-01T00:00:00.000Z,TNS,0.11,0.17,58.88,EST,0,EQUITY,2021-03-01
+7,RPAY,Repay Holdings Corporation,2020-11-09T00:00:00.000Z,TNS,0.11,0.12,11.11,EST,0,EQUITY,2020-11-09
+8,RPAY,Repay Holdings Corporation,2020-08-10T00:00:00.000Z,TNS,0.1,0.14,37.25,EST,0,EQUITY,2020-08-10
+9,RPAY,Repay Holdings Corporation,2020-05-11T00:00:00.000Z,TNS,0.14,0.17,22.3,EST,0,EQUITY,2020-05-11
+10,RPAY,Repay Holdings Corporation,2020-03-16T00:00:00.000Z,TNS,0.11,0.2,81.82,EST,0,EQUITY,2020-03-16
+11,RPAY,Repay Holdings Corporation,2019-11-14T00:00:00.000Z,TNS,0.09,0.18,111.76,EST,0,EQUITY,2019-11-14

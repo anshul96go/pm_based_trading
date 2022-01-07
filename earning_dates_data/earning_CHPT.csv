@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,CHPT,"ChargePoint Holdings, Inc.",2021-12-07T00:00:00.000Z,TNS,-0.13,-0.14,-7.69,EST,0,EQUITY,2021-12-07
+1,CHPT,"ChargePoint Holdings, Inc.",2021-09-01T00:00:00.000Z,TNS,-0.13,-0.13,-0.78,EST,0,EQUITY,2021-09-01
+2,CHPT,"ChargePoint Holdings, Inc.",2021-06-03T00:00:00.000Z,TNS,-0.1,-0.18,-80.0,EST,0,EQUITY,2021-06-03
+3,CHPT,"ChargePoint Holdings, Inc.",2021-03-11T00:00:00.000Z,TNS,-1.08,-1.72,-58.53,EST,0,EQUITY,2021-03-11

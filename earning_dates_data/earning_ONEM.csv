@@ -1,0 +1,9 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+1,ONEM,1Life Healthcare Inc,2021-11-03T16:05:04.000Z,TAS,-0.26,-0.51,-96.15,EST,-18000000,EQUITY,2021-11-03
+3,ONEM,"1Life Healthcare, Inc.",2021-08-04T00:00:00.000Z,TNS,-0.2,-0.3,-49.25,EST,0,EQUITY,2021-08-04
+4,ONEM,"1Life Healthcare, Inc.",2021-05-12T00:00:00.000Z,TNS,-0.15,-0.29,-95.95,EST,0,EQUITY,2021-05-12
+5,ONEM,"1Life Healthcare, Inc.",2021-02-25T00:00:00.000Z,TNS,-0.14,-0.06,58.33,EST,0,EQUITY,2021-02-25
+6,ONEM,"1Life Healthcare, Inc.",2020-11-10T00:00:00.000Z,TNS,-0.19,-0.13,32.64,EST,0,EQUITY,2020-11-10
+7,ONEM,"1Life Healthcare, Inc.",2020-08-12T00:00:00.000Z,TNS,-0.33,-0.24,28.36,EST,0,EQUITY,2020-08-12
+8,ONEM,"1Life Healthcare, Inc.",2020-05-13T00:00:00.000Z,TNS,-0.17,-0.4,-136.69,EST,0,EQUITY,2020-05-13
+9,ONEM,"1Life Healthcare, Inc.",2020-03-18T00:00:00.000Z,TNS,-0.14,-1.03,-651.82,EST,0,EQUITY,2020-03-18

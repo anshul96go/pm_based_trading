@@ -1,0 +1,3 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,DOCS,"Doximity, Inc.",2021-11-09T00:00:00.000Z,TNS,0.1,0.19,93.88,EST,0,EQUITY,2021-11-09
+1,DOCS,"Doximity, Inc.",2021-08-10T00:00:00.000Z,TNS,0.08,0.11,41.03,EST,0,EQUITY,2021-08-10

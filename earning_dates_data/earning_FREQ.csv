@@ -1,0 +1,10 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,FREQ,"Frequency Therapeutics, Inc.",2021-11-15T00:00:00.000Z,TNS,-0.57,-0.73,-27.18,EST,0,EQUITY,2021-11-15
+1,FREQ,"Frequency Therapeutics, Inc.",2021-08-12T00:00:00.000Z,TNS,-0.51,-0.52,-2.36,EST,0,EQUITY,2021-08-12
+2,FREQ,"Frequency Therapeutics, Inc.",2021-05-13T00:00:00.000Z,TNS,-0.28,-0.6,-116.61,EST,0,EQUITY,2021-05-13
+3,FREQ,"Frequency Therapeutics, Inc.",2021-03-29T00:00:00.000Z,TNS,-0.25,-0.3,-17.65,EST,0,EQUITY,2021-03-29
+4,FREQ,"Frequency Therapeutics, Inc.",2020-11-16T00:00:00.000Z,TNS,-0.28,-0.16,42.65,EST,0,EQUITY,2020-11-16
+5,FREQ,"Frequency Therapeutics, Inc.",2020-08-12T00:00:00.000Z,TNS,-0.18,-0.19,-3.26,EST,0,EQUITY,2020-08-12
+6,FREQ,"Frequency Therapeutics, Inc.",2020-05-14T00:00:00.000Z,TNS,-0.17,-0.16,7.51,EST,0,EQUITY,2020-05-14
+7,FREQ,"Frequency Therapeutics, Inc.",2020-03-26T00:00:00.000Z,TNS,0.1,-0.19,-286.27,EST,0,EQUITY,2020-03-26
+8,FREQ,"Frequency Therapeutics, Inc.",2019-11-18T00:00:00.000Z,TNS,-0.68,-0.73,-7.35,EST,0,EQUITY,2019-11-18

@@ -1,0 +1,7 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+2,WMG,Warner Music Group Corp,2021-11-15T07:30:01.000Z,TAS,0.15,0.05,-66.67,EST,-18000000,EQUITY,2021-11-15
+4,WMG,Warner Music Group Corp.,2021-08-03T00:00:00.000Z,TNS,0.15,0.12,-20.53,EST,0,EQUITY,2021-08-03
+5,WMG,Warner Music Group Corp.,2021-05-04T00:00:00.000Z,TNS,0.16,0.22,41.94,EST,0,EQUITY,2021-05-04
+6,WMG,Warner Music Group Corp.,2021-02-01T00:00:00.000Z,TNS,0.19,0.19,0.0,EST,0,EQUITY,2021-02-01
+7,WMG,Warner Music Group Corp.,2020-11-23T00:00:00.000Z,TNS,0.06,0.0,-100.0,EST,0,EQUITY,2020-11-23
+8,WMG,Warner Music Group Corp.,2020-08-04T00:00:00.000Z,TNS,0.04,-1.03,-2552.38,EST,0,EQUITY,2020-08-04

@@ -1,0 +1,6 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,NHTC,Natural Health Trends Corp.,2005-11-15T00:00:00.000Z,TNS,0.2,0.01,-95.0,EST,0,EQUITY,2005-11-15
+1,NHTC,Natural Health Trends Corp.,2005-08-11T00:00:00.000Z,TNS,0.16,-0.26,-262.5,EST,0,EQUITY,2005-08-11
+2,NHTC,Natural Health Trends Corp.,2005-03-23T00:00:00.000Z,TNS,0.14,-0.08,-157.14,EST,0,EQUITY,2005-03-23
+3,NHTC,Natural Health Trends Corp.,2004-08-18T00:00:00.000Z,TNS,0.21,-1.24,-690.48,EST,0,EQUITY,2004-08-18
+4,NHTC,Natural Health Trends Corp.,2004-04-13T00:00:00.000Z,TNS,0.25,0.34,36.0,EST,0,EQUITY,2004-04-13

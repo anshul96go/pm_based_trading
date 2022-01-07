@@ -1,0 +1,5 @@
+,ticker,companyshortname,startdatetime,startdatetimetype,epsestimate,epsactual,epssurprisepct,timeZoneShortName,gmtOffsetMilliSeconds,quoteType,date
+0,EOSE,Eos Energy Enterprises Inc,2021-11-10T07:05:00.000Z,TAS,-0.47,-0.34,27.66,EST,-18000000,EQUITY,2021-11-10
+2,EOSE,"Eos Energy Enterprises, Inc.",2021-08-11T00:00:00.000Z,TNS,-0.17,-1.04,-501.16,EST,0,EQUITY,2021-08-11
+3,EOSE,"Eos Energy Enterprises, Inc.",2021-05-12T00:00:00.000Z,TNS,-0.16,-0.42,-154.55,EST,0,EQUITY,2021-05-12
+4,EOSE,"Eos Energy Enterprises, Inc.",2021-02-25T00:00:00.000Z,TNS,-0.16,-2.49,-1456.25,EST,0,EQUITY,2021-02-25
