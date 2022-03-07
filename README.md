@@ -2,17 +2,14 @@
 
 ## Aim
 
-Employ PM concepts to create trading strategies (using estimize data)
+Employ concept of wisdom of crowds to create trading strategies 
 
 The goal is to get the list of stocks with the past mean returns, std dev of returns, optimal entry-exit pints, sharpe ratio, max and min return for each stock in estimize (fr which estimize and market date is available, as well as the earning dates)
 
 
 ## File structure (with the order of running the files)
 
-0. helper_get_final_sheet.py : helper functions to create the final_sheet
-
-0. helper_2.py : helper functions to create the final_sheet
-
+0. helper_get_final_sheet.py,helper_2.py : helper functions to create the final_sheet
 
 1. get_data_each_stock_new.py : code to get the list of stocks and save the list in stock_list.csv file + save the estimize table for each stock in output folder + include the upcoming earning dates, timings (AMC/ BMO) & day 
 
@@ -33,4 +30,7 @@ The goal is to get the list of stocks with the past mean returns, std dev of ret
 5. final_get_final_sheet.py : code to get the final excel sheet containing the statistics for each stock
 
 
+## Results
+
+The strategy provided gave average return of 1200% per annum and Sharpe Ratio of 2, on average. The results are based on back-testinng for period of 8 quarters spanning 2020-2021
 
